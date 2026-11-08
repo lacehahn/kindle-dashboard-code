@@ -20,7 +20,7 @@
 
 ## 本地配置
 
-复制 `report/config.example.json` 为 `report/config.local.json` 后按文档配置。项目不会提交实际 GitHub 下载配置、令牌、API Key、设备备份、报告快照或账户数据。代码仓库与存放实际报告的私有数据仓库分开使用；不要将私有报告发布到 GitHub Pages。
+复制 `report/config.example.json` 为 `report/config.local.json` 后按文档配置。
 
 已有设备安装器会备份现有文件并保留设备配置；它不是未配置设备的一键安装包，具体前置要求见 Kindle 文档。
 
