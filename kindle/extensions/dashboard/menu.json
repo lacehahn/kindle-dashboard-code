@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "name": "窗边 InkDesk",
+      "items": [
+        {
+          "name": "每日报告（横屏）",
+          "action": "sh /mnt/us/extensions/dashboard/bin/start.sh report",
+          "exitmenu": true
+        },
+        {
+          "name": "每日报告（竖屏）",
+          "action": "sh /mnt/us/extensions/dashboard/bin/start.sh report-portrait",
+          "exitmenu": true
+        },
+        {
+          "name": "停止",
+          "action": "sh /mnt/us/extensions/dashboard/bin/stop.sh",
+          "exitmenu": false
+        },
+        {
+          "name": "自检",
+          "action": "sh /mnt/us/extensions/dashboard/bin/selftest.sh",
+          "exitmenu": false
+        }
+      ]
+    }
+  ]
+}

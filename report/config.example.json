@@ -1,0 +1,13 @@
+{
+  "city": "东京",
+  "latitude": 35.68,
+  "longitude": 139.69,
+  "timezone": "Asia/Tokyo",
+  "github_repository": "",
+  "github_branch": "reports",
+  "codex_sessions": "~/.codex/sessions",
+  "deepseek_usage_file": "",
+  "secrets_file": "../.device-config/report-secrets.json",
+  "publish_mode": "private_repository",
+  "github_token_file": "../.device-config/github-read-token"
+}
